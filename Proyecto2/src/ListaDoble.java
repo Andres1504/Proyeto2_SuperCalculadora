@@ -44,6 +44,8 @@ public class ListaDoble {
 		}
 		  
     }
+	
+	
 
 	public static void insertarDato(long dato) {
 		NodoDoble nuevo = new NodoDoble();
