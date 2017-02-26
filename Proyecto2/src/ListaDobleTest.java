@@ -27,6 +27,9 @@ public class ListaDobleTest {
 
     	list.mostrarDatos(4);
     	
+    	list.multiplicar();
+    	list.mostrarDatosMulti(list);
+    	
     	
     }
 
